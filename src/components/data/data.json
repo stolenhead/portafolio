@@ -1,0 +1,87 @@
+{
+ "projects" :[
+  {
+    "alias":"8",
+    "size_expand":2,
+    "title":"Jquery",
+    "powers":["Jquery"],
+    "body":"Trello is a collaboration tool that organizes your projects into boards , we can add lists and boards using Jquery ",
+    "externa_link":"https://stolenhead.github.io/trello-star/",
+    "image_url":"/data/images/trello2.jpg",
+    "image_title":"image",
+    "color":0,
+    "back_color":"light"
+  },
+    {
+      "alias":"1",
+      "size_expand":1,
+      "title":"Angular Js",
+      "powers":["Angular JS"],
+      "body":"Migrate the company admin site from jQuery to Angular Js",
+      "image_title":"image",
+      "image_url":"",
+      "color":0,
+      "back_color":"yellow"
+    },
+    {
+      "alias":"6",
+      "size_expand":2,
+      "title":"React Js",
+      "powers":["HTML", "CSS", "React js"],
+      "body":"React video, its a video player using React from platzi tutorial",
+      "externa_link":"https://stolenhead.github.io/react-video-project/",
+      "image_title":"image",
+      "image_url":"/data/images/react_img.png",
+      "color":3,
+      "back_color":"pink"
+    },
+    {
+      "alias":"3",
+      "size_expand":1,
+      "title":"Support some projects made in :...",
+      "powers":["DRUPAL", "WORDPRESS","SILVERSTRIPE"],
+      "body":"Support in some projects made in: Drupal, Wordpress and Silverstripe",
+      "externa_link":"https://www.google.com/",
+      "image_title":"image",
+      "image_url":"",
+      "color":2,
+      "back_color":"orange"
+    },
+    
+   
+    
+    
+    {
+      "alias":"9",
+      "size_expand":2,
+      "title":"Angular",
+      "powers":["ANGULAR 10", "Private proyect"],
+      "body":"Create a fashion marketplace, front end side made in Angular.",
+      "image_url":"/data/images/zipper-porta.png",
+      "image_title":"image",
+      "externa_link":"https://stolenhead.github.io/zipper-vol1/",
+      "color":2,
+      "back_color":"orange"
+    },
+    {
+      "alias":"10",
+      "size_expand":0,
+      "title":"Git",
+      "body":"Use Git workflow, Github: stolenhead",
+      "color":0,
+      "back_color":"light"
+    },
+    {
+      "alias":"11",
+      "size_expand":2,
+      "title":"React with typescript",
+      "powers":["REACT WITH TYPESCRIPT"],
+      
+      "body":"I support with the animation in React Page, also this portfolio was made with React and typescript",
+      "externa_link":"https://www.google.com/",
+      "image_title":"image",
+      "color":0,
+      "back_color":"yellow"
+    }
+  ]
+}
