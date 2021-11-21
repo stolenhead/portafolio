@@ -15,7 +15,7 @@ export const dev = style({
 export const devBoxParentClassName = style({
   $debugName: 'devBoxParent',
   marginLeft:'33.3%',
-  cursor:'url(/data/images/re.png), auto'
+  cursor:'url(data/images/re.png), auto'
 },
 media(MEDIA_MD_MAX, {
   marginLeft:'0px',
@@ -25,7 +25,7 @@ export const rainbowBackTop = style(
   {
     $debugName: 'rainbowBackTop',
     height:'106PX',
-    backgroundImage:'url(/data/images/rainbow-png-1.png)',
+    backgroundImage:'url(data/images/rainbow-png-1.png)',
     backgroundRepeat: 'no-repeat',
     backgroundSize: '130px 100px',
     textAlign: 'center'
@@ -173,7 +173,7 @@ export const cloudRightBig = style(
 
 export const cloud = style(
   {
-    backgroundImage:'url(/data/images/nube.png)',
+    backgroundImage:'url(data/images/nube.png)',
     backgroundSize: 'contain',
     backgroundRepeat: 'no-repeat',
     position: 'absolute',
@@ -292,7 +292,7 @@ export const devButtonn =style({
   textIndent: '16px',
   fontWeight: 'bold',
   transition: 'all 1s ease-in-out',
-  cursor:'url(/data/images/re.png), auto',
+  cursor:'url(data/images/re.png), auto',
   $nest: {
     '&:hover':{
      border: '4px solid red',

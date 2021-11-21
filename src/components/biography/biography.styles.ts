@@ -6,7 +6,7 @@ export const bioBoxClassName  = style(
     backgroundColor: COLOR_PINK,
     height:'100vh',
     position:'fixed',
-    cursor:'url(/data/images/re.png), auto'
+    cursor:'url(data/images/re.png), auto'
   }
 );
 
@@ -19,7 +19,7 @@ export const bioBoxInsideClassName  = style(
     marginTop:'3rem',
     marginBottom:'auto',
     boxShadow: '-18px 19px 0px 3px rgba(0,0,0)',
-    cursor:'url(/data/images/re.png), auto',
+    cursor:'url(data/images/re.png), auto',
   },media(MEDIA_XS_ONLY, {
     width:'90%',
     marginRight:'7px!important',
@@ -62,7 +62,7 @@ export const contact = style(
     left: 0,
     $nest: {
       '&:hover':{
-        cursor:'url(/data/images/re.png), auto',
+        cursor:'url(data/images/re.png), auto',
         top: '37px',
         left: '-37px',
         boxShadow: '0 0 0 -3px white, 0 0 0 0 green,0 0 0 -3px white, 0 0 0 0  yellow,0 0 0 -3px white, 0 0 0 0  orange,0 0 0 -3px  white, 0 0 0 0  red',
@@ -125,14 +125,14 @@ export const contactBox = style({
 })
 
 export const contactLknClassName = style({
-  backgroundImage:'url(/data/images/cv.png)',
+  backgroundImage:'url(data/images/cv.png)',
 })
 export const contactCvClassName = style({
-  backgroundImage:'url(/data/images/cv.png)',
+  backgroundImage:'url(data/images/cv.png)',
 })
 
 export const contactMailClassName = style({
-  backgroundImage:'url(/data/images/mail.png)',
+  backgroundImage:'url(data/images/mail.png)',
   height: '60px',
   width: '60px',
   backgroundPositionY:'8px'

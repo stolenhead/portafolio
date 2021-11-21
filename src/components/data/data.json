@@ -7,7 +7,7 @@
     "powers":["Jquery"],
     "body":"Trello is a collaboration tool that organizes your projects into boards , we can add lists and boards using Jquery ",
     "externa_link":"https://stolenhead.github.io/trello-star/",
-    "image_url":"/data/images/trello2.jpg",
+    "image_url":"data/images/trello2.jpg",
     "image_title":"image",
     "color":0,
     "back_color":"light"
@@ -31,7 +31,7 @@
       "body":"React video, its a video player using React from platzi tutorial",
       "externa_link":"https://stolenhead.github.io/react-video-project/",
       "image_title":"image",
-      "image_url":"/data/images/react_img.png",
+      "image_url":"data/images/react_img.png",
       "color":3,
       "back_color":"pink"
     },
@@ -57,7 +57,7 @@
       "title":"Angular",
       "powers":["ANGULAR 10", "Private proyect"],
       "body":"Create a fashion marketplace, front end side made in Angular.",
-      "image_url":"/data/images/zipper-porta.png",
+      "image_url":"data/images/zipper-porta.png",
       "image_title":"image",
       "externa_link":"https://stolenhead.github.io/zipper-vol1/",
       "color":2,
