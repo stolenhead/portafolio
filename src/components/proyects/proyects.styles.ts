@@ -9,7 +9,7 @@ export const proyectsClassName  = style(
     gridGap: '1px',
     height:'auto',
     minHeight:'100vh',
-    backgroundImage:'url(/data/images/noise.webp)',
+    backgroundImage:'url(data/images/noise.webp)',
     backgroundPosition: 'center',
   },media(MEDIA_LG_MAX, {
     height:'auto',

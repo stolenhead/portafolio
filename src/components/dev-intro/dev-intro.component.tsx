@@ -93,7 +93,7 @@ import { devBoxClassName, devButtonBoxx, rainbowBackTop,
       <div id="proyect"  className={proyectBox}>
       <Proyects></Proyects>
         <div className={charlieBox}>
-          <a onClick={ ()=> setIntro(false)} ><img className={ charlie} src="/data/images/charlie.png"></img></a>
+          <a onClick={ ()=> setIntro(false)} ><img className={ charlie} src="data/images/charlie.png"></img></a>
         </div>
       </div>
       )
